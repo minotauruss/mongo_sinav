@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      uri : mongodb+srv://minotor:5202940@cluster0.4ojzv.mongodb.net/?retryWrites=true&w=majority
+      database : PersonelInfo
